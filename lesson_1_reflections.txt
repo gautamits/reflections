@@ -1,0 +1,3 @@
+ very hard to catch the changed content manually.
+ 2. it is easier to revert ack to working versions. 
+ 3. git is used to manage projects therfore one commit of git saves snapshot of all files assuming al files were stable. but google docs is not used for project management therefore it does not save many files at once.
