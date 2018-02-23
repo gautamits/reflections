@@ -1,0 +1,12 @@
+Q-What happens when you initialize a repository? Why do you need to do it?
+A-When we initialise an empty repository a directory with name of ".git" is created. We need to do it in order to start tracking changes in our files.
+Q- How is the staging area different from the working directory and the repository? What value do you think it offers?
+A- staging area contains the files which are being tracked by git but they havent been commited yet. 
+Q-How can you use the staging area to make sure you have one commit per logical change?
+A- before making any commit we can compare staging area to last commit and see what are the changes we being commited.
+
+Q-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A-When we want to keep out master branch stable undamaged and presentation worthy so we do all changes in seocndary branches
+
+Q- How do the diagrams help you visualize the branch structure?
+A- We can see how our project is divided and helps us to keep track that there are no unreachable branches.
